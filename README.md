@@ -1,6 +1,6 @@
 # Schedule Extractor
 
-**Schedule Extractor** is a powerful Chrome extension that allows users to seamlessly extract schedules or registration data from web-based systems and export them into Google Calendar or Apple Calendar with ease.
+**Schedule Extractor** is a powerful Chrome extension that allows users to seamlessly extract schedules or registration data from the Fordham registration systems and export them into Google Calendar or Apple Calendar with ease.
 
 ## Features
 
